@@ -2,10 +2,10 @@
     "tokens": [
         {
           "id": 0,
-          "description": "Pony",
+          "description": "Gun",
           "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-          "image": "https://it.wikipedia.org/wiki/Pony#/media/File:USMC-120412-M-GL246-003.jpg",
-          "name": "My NFT 0"
+          "image": "https://i.ibb.co/cyj0VnD/default.png",
+          "name": "SparoCAZZO"
         },
         {
             "id": 1,
