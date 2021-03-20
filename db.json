@@ -1,9 +1,30 @@
 {
- "id": [
- "name":"BASTARD GAN PUNK V2 #0",
- "description":"UGLY STINKY WHALES\nFATHER PICK ME UP\nI'M OUT OF CONTROL\nBUT MY BONES ARE EMPTY\nHER LIPS ARE EMPTY\nMY HEAD DOES NOT FEEL ALONE\nAND MY HANDS ARE OPEN\n",
- "image":"https://i.ibb.co/cyj0VnD/default.png",
- "external_url":"https://www.bastardganpunks.club",
- "attributes":[{"key":"HYPE TYPE","trait_type":"HYPE TYPE","value":"HYPED AF (ANIMATED)"},{"key":"BASTARDNESS","trait_type":"BASTARDNESS","value":"GOD BASTARD"}]
- ],
+    "tokens": [
+        {
+            "id": 0,
+            "description": "My NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "My NFT 0"
+          "id": 0,
+          "description": "Pony",
+          "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+          "image": "https://it.wikipedia.org/wiki/Pony#/media/File:USMC-120412-M-GL246-003.jpg",
+          "name": "My NFT 0"
+        },
+        {
+            "id": 1,
+            "description": "My NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "My NFT 1"
+        },
+        {
+            "id": 2,
+            "description": "My NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "My NFT 2"
+        }
+    ]
 }
